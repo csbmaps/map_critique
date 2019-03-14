@@ -1,4 +1,4 @@
-# Web Map critique
+# Web Map Critique
 ## City of New Orleans Roadwork Status Map
 
 In this repository, I will critique a web map that (as of March 13, 2019) can be found at https://roadwork.nola.gov/. This map shows the current status of road work projects in New Orleans, Louisiana, as well as projections and timelines for future projects, broken down on a block-by-block level.
